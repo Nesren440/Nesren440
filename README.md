@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nesren Sherif</h1>
 
-<!--
-**Nesren440/Nesren440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Frontend Developer | React.js Learner</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Computer Science Student passionate about building
+  responsive and user-friendly web applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Computer Science Student
+- 💻 Interested in Frontend Development
+- 🌱 Currently learning React.js
+- 🚀 Improving my skills through practical projects
+
+### 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,git,github,vscode" />
+</p>
+
+### 📂 My Projects
+
+- [ContactHub](https://github.com/Nesren440/ContactHub-project)
+- [EliteHomes](https://github.com/Nesren440/EliteHomes-project)
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! 😊
+</p>
